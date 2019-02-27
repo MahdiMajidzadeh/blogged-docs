@@ -1,0 +1,12 @@
+- ## Get Started
+    - [Overview](/docs/{{version}}/overview)
+    - [Installation](/docs/{{version}}/installation)
+    - [Configurations](/docs/{{version}}/configurations)
+- ## Features
+    - [MarkDown Support](/docs/{{version}}/markdown-support)
+    - [Dashboard](/docs/{{version}}/dashboard)
+    - [Authorization](/docs/{{version}}/authorization)
+- ## Customization
+    - [Custom CSS And JS](/docs/{{version}}/custom-css-and-js)
+- ## Extra
+    - [Using Nova](/docs/{{version}}/nova)
